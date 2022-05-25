@@ -1,4 +1,4 @@
-//Create a shopping List
+//Shopping list for Steak Salad
 
 const myList = [
     ["Mixed Greens", 1],
